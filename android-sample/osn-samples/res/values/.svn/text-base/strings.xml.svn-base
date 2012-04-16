@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Opencities_Mashup_01</string>
+    <string name="main_title">Parking</string>
+    <string name="btn_metadata">Metadata</string>
+    <string name="btn_opendata">Opendata</string>
+    <string name="loading_title">Loading</string>
+    <string name="loading_metadata">Loading metadata</string>
+    <string name="loading_opendata">Loading opendata</string>
+    <string name="loading_metadata_error">Error loading metadata</string>
+    <string name="error_title">Error</string>
+    <string name="btt_ok">Ok</string>
+    <string name="id">Id:</string>
+    <string name="source_id">Source Id:</string>
+    <string name="date">Date:</string>
+    <string name="value">Value:</string>
+    <string name="unit">Unit:</string>
+    <string name="extra_info">Extra Info:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="name">Name:</string>
+    <string name="undefined">undefined</string>
+    <string name="author">Author:</string>
+    <string name="description">Description:</string>
+    <string name="update_period">Update period:</string>
+    <string name="group">Group:</string>
+    <string name="tags">Tags:</string>
+    <string name="twitter">Twitter:</string>
+    <string name="license">License:</string>
+    <string name="url">Url:</string>
+    <string name="email">Email:</string>
+    <string name="values">Value depending of service</string>
+    <string name="show_value">Show Value</string>
+    <string name="adr">Adress:</string>
+    <string name="price">Price:</string>
+
+</resources>

@@ -1,0 +1,37 @@
+10
+
+dir
+29150
+http://10.1.2.34/svn/Proyectos/Opencities/trunk/Android/Opencities_Mashup_01/src/com/tempos21/opencities/mashup01
+http://10.1.2.34/svn
+
+
+
+2012-03-22T17:06:50.799090Z
+28726
+sbarea
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+48dc42ca-0bef-0310-b577-8ee560c9ddce
+
+adapter
+dir
+
+entity
+dir
+
+ui
+dir
+
