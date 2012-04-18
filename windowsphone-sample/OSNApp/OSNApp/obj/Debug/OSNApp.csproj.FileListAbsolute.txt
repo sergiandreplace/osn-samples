@@ -1,0 +1,15 @@
+c:\users\a507216\documents\visual studio 2010\Projects\OSNApp\OSNApp\Bin\Debug\ApplicationIcon.png
+c:\users\a507216\documents\visual studio 2010\Projects\OSNApp\OSNApp\Bin\Debug\Background.png
+c:\users\a507216\documents\visual studio 2010\Projects\OSNApp\OSNApp\Bin\Debug\OSNApp.dll
+c:\users\a507216\documents\visual studio 2010\Projects\OSNApp\OSNApp\Bin\Debug\OSNApp.pdb
+c:\users\a507216\documents\visual studio 2010\Projects\OSNApp\OSNApp\Bin\Debug\AppManifest.xaml
+c:\users\a507216\documents\visual studio 2010\Projects\OSNApp\OSNApp\Bin\Debug\OSNApp.xap
+c:\users\a507216\documents\visual studio 2010\Projects\OSNApp\OSNApp\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\a507216\documents\visual studio 2010\Projects\OSNApp\OSNApp\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\a507216\documents\visual studio 2010\Projects\OSNApp\OSNApp\obj\Debug\ResolveAssemblyReference.cache
+c:\users\a507216\documents\visual studio 2010\Projects\OSNApp\OSNApp\obj\Debug\OSNApp.g.resources
+c:\users\a507216\documents\visual studio 2010\Projects\OSNApp\OSNApp\obj\Debug\OSNApp.dll
+c:\users\a507216\documents\visual studio 2010\Projects\OSNApp\OSNApp\obj\Debug\OSNApp.pdb
+c:\users\a507216\documents\visual studio 2010\Projects\OSNApp\OSNApp\obj\Debug\XapCacheFile.xml
+C:\Users\A507216\Documents\Visual Studio 2010\Projects\OSNApp\OSNApp\obj\Debug\App.g.i.cs
+C:\Users\A507216\Documents\Visual Studio 2010\Projects\OSNApp\OSNApp\obj\Debug\MainPage.g.i.cs
