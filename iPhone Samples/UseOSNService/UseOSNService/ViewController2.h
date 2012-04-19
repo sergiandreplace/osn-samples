@@ -25,7 +25,6 @@
     IBOutlet UILabel *unitLabel;
     IBOutlet UILabel *latitudeLabel;
     IBOutlet UILabel *longitudeLabel;
-    IBOutlet UILabel *valueLabel;
     
     XMLFetcher * XMLfetcher;
     JSONFetcher * JSONfetcher;
