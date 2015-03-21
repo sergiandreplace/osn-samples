@@ -1,0 +1,1 @@
+OSN (Open Services Network) is the standard platform to share city-related services for the Open Cities initiative. This project is a set of samples and libraries intended to help you with services development for differents platforms.
